@@ -3,6 +3,8 @@
 
 This project is a simple chatbox interface that allows users to interact with a chatbot using both text and voice input. The chatbox is designed with a user-friendly interface and communicates with a backend API to process the text input and return a response.
 
+![Screenshot 2025-02-04 170856](https://github.com/user-attachments/assets/fc0a11e1-9e89-436c-8316-c5d74bead012)
+
 ## Features
 
 - **Text Input**: Users can type messages to the chatbot, which processes and returns a response.
